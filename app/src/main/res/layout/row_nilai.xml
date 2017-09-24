@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:background="@color/backgroundContent"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/tkdmakul"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textSize="12sp"
+            android:textColor="@android:color/black"
+            android:layout_alignBottom="@+id/tnilai"
+            android:layout_alignStart="@+id/tmakul" />
+        <TextView
+            android:id="@+id/tmakul"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textStyle="bold"
+            android:textSize="15sp"
+            android:textColor="@android:color/black"
+            android:layout_marginStart="17dp"
+            android:layout_above="@+id/tkdmakul"
+            android:layout_alignParentStart="true" />
+        <TextView
+            android:id="@+id/tsks"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/black"
+            android:text=" "
+            android:textSize="12sp"
+            android:layout_marginStart="18dp"
+            android:layout_below="@+id/tmakul"
+            android:layout_toEndOf="@+id/tkdmakul" />
+        <TextView
+            android:id="@+id/tnilai"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/black"
+            android:text=""
+            android:textSize="17sp"
+            android:layout_marginEnd="14dp"
+            android:layout_marginTop="31dp"
+            android:layout_alignParentTop="true"
+            android:layout_toStartOf="@+id/tgrade" />
+        <TextView
+            android:id="@+id/tgrade"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:textColor="@android:color/black"
+            android:layout_marginEnd="25dp"
+            android:text=""
+            android:textStyle="bold"
+            android:layout_alignBaseline="@+id/tnilai"
+            android:layout_alignBottom="@+id/tnilai"
+            android:layout_alignParentEnd="true" />
+
+    </RelativeLayout>

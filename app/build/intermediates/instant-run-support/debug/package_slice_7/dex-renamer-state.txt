@@ -1,0 +1,4 @@
+#Sun Sep 24 10:26:06 ICT 2017
+base.0=C\:\\Users\\nitinegoro\\AndroidStudioProjects\\Pertiba\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7
+renamed.0=classes.dex
+file.0=C\:\\Users\\nitinegoro\\AndroidStudioProjects\\Pertiba\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7\\classes.dex

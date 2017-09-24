@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\nitinegoro\.android\build-cache\d834da3e41208dc8d3737f663cfcc60527b5d943\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\nitinegoro\AndroidStudioProjects\Pertiba\app\build\intermediates\pre-dexed\debug\classes_799dfee215c93bcc85ccc62fdc55849f64c0c22a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nitinegoro\AndroidStudioProjects\Pertiba\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="213751fe5e10e79a5f74c18bff08f5cf17c20c0b">
+        <dex dex="C:\Users\nitinegoro\AndroidStudioProjects\Pertiba\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_cc1587f5240a25e63df72d16a008fa08c4f3d078\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nitinegoro\AndroidStudioProjects\Pertiba\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\nitinegoro\AndroidStudioProjects\Pertiba\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5ffa783bcbcb085e7e5048360ae083b0ddc65fd1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nitinegoro\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\nitinegoro\AndroidStudioProjects\Pertiba\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_da868e42a27c2d7fd767419c83f802fc6c882934.jar" />
+    </item>
+
+</items>
