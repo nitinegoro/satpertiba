@@ -1,0 +1,7 @@
+#Mon Sep 25 00:33:40 ICT 2017
+base.0=C\:\\Users\\nitinegoro\\AndroidStudioProjects\\Pertiba\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_cc1587f5240a25e63df72d16a008fa08c4f3d078
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\nitinegoro\\AndroidStudioProjects\\Pertiba\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5ffa783bcbcb085e7e5048360ae083b0ddc65fd1\\classes.dex
+base.1=C\:\\Users\\nitinegoro\\AndroidStudioProjects\\Pertiba\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5ffa783bcbcb085e7e5048360ae083b0ddc65fd1
+file.0=C\:\\Users\\nitinegoro\\AndroidStudioProjects\\Pertiba\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_cc1587f5240a25e63df72d16a008fa08c4f3d078\\classes.dex

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\nitinegoro\\AndroidStudioProjects\\Pertiba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_android_black_24dp.png",
+        "source": "C:\\Users\\nitinegoro\\AndroidStudioProjects\\Pertiba\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_android_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\nitinegoro\\AndroidStudioProjects\\Pertiba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\quit.png",
+        "source": "C:\\Users\\nitinegoro\\AndroidStudioProjects\\Pertiba\\app\\src\\main\\res\\drawable-xhdpi\\quit.png"
+    },
+    {
+        "merged": "C:\\Users\\nitinegoro\\AndroidStudioProjects\\Pertiba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\toolbar.png",
+        "source": "C:\\Users\\nitinegoro\\AndroidStudioProjects\\Pertiba\\app\\src\\main\\res\\drawable-xhdpi\\toolbar.png"
+    }
+]

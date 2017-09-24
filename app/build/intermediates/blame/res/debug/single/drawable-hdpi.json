@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\nitinegoro\\AndroidStudioProjects\\Pertiba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\toobar.png",
+        "source": "C:\\Users\\nitinegoro\\AndroidStudioProjects\\Pertiba\\app\\src\\main\\res\\drawable-hdpi\\toobar.png"
+    },
+    {
+        "merged": "C:\\Users\\nitinegoro\\AndroidStudioProjects\\Pertiba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\quit.png",
+        "source": "C:\\Users\\nitinegoro\\AndroidStudioProjects\\Pertiba\\app\\src\\main\\res\\drawable-hdpi\\quit.png"
+    },
+    {
+        "merged": "C:\\Users\\nitinegoro\\AndroidStudioProjects\\Pertiba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_android_black_24dp.png",
+        "source": "C:\\Users\\nitinegoro\\AndroidStudioProjects\\Pertiba\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_android_black_24dp.png"
+    }
+]
